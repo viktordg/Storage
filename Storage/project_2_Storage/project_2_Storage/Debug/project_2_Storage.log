@@ -1,0 +1,15 @@
+﻿  Command.cpp
+  Generating Code...
+  Compiling...
+  project_2_Storage.cpp
+  Storage.cpp
+d:\su_2019_2020\oop_2020\projects\project_02\storage\project_2_storage\project_2_storage\storage.cpp(24): warning C4018: '<': signed/unsigned mismatch
+d:\su_2019_2020\oop_2020\projects\project_02\storage\project_2_storage\project_2_storage\storage.cpp(27): warning C4018: '<': signed/unsigned mismatch
+d:\su_2019_2020\oop_2020\projects\project_02\storage\project_2_storage\project_2_storage\storage.cpp(162): warning C4018: '<': signed/unsigned mismatch
+d:\su_2019_2020\oop_2020\projects\project_02\storage\project_2_storage\project_2_storage\storage.cpp(208): warning C4018: '<': signed/unsigned mismatch
+d:\su_2019_2020\oop_2020\projects\project_02\storage\project_2_storage\project_2_storage\storage.cpp(211): warning C4018: '<': signed/unsigned mismatch
+  Product.cpp
+  Place.cpp
+  Date.cpp
+  Generating Code...
+  project_2_Storage.vcxproj -> D:\SU_2019_2020\OOP_2020\projects\project_02\Storage\project_2_Storage\Debug\project_2_Storage.exe

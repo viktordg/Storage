@@ -1,0 +1,7 @@
+60
+Product: peach
+Expiration date: 12/12/2020
+Unit: kilograms
+Qantity: 12
+Note: sdfsdf
+
